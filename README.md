@@ -1,2 +1,2 @@
 # VidFlow
-<img src="screenshots/Home.png">
+<img src="Screenshots/Home.png">
